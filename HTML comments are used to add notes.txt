@@ -1,0 +1,16 @@
+HTML comments are used to add notes or explanations to the HTML source code. They are not displayed in the browser, but they can help document your HTML source code and make it more readable. You can add comments to your HTML source by using the following syntax: <!-- Write your comments here -->. Notice that there is an exclamation point (!) in the start tag, but not in the end tag. Comments can be used to place notifications and reminders in your HTML code. For example, you can use comments to hide content temporarily or to debug HTML code. Here is an example of how to use comments in an HTML document:
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Web Page</title>
+</head>
+<body>
+	<!-- This is a comment -->
+	<h1>Welcome to pw as!</h1>
+	<p>Here is some text.</p>
+</body>
+</html>
+
+In the above example, the comment <!-- This is a comment --> is added to the HTML source code to provide additional information about the web page. The comment is not displayed in the browser, but it can help document the HTML source code and make it more readable

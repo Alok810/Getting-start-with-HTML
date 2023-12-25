@@ -1,0 +1,3 @@
+The DOCTYPE Declaration is an instruction to the web browser about what version of HTML the page is written in. It is the first line of code required in every HTML or XHTML document. The declaration is not an HTML tag, but rather an “information” to the browser about what document type to expect. In HTML 5, the declaration is simple: <!DOCTYPE html>. In older documents (HTML 4 or XHTML), the declaration is more complicated because it must refer to a DTD (Document Type Definition). A DTD defines the structure and the legal elements of an XML document
+
+
